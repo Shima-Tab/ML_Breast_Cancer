@@ -2,10 +2,10 @@
 Breast Cancer Diagnosis Classification
 This repository contains an end-to-end machine learning pipeline for the classification of breast cancer diagnosis. The project demonstrates data exploration, preprocessing, model training with multiple algorithms, hyperparameter tuning, advanced visualization, ensemble techniques, feature engineering/selection, and deployment using Flask. In addition, fairness metrics are computed using AIF360.
 
-Table of Contents
-Overview
-Repository Structure
-Installation
+Table of Contents  
+Overview  
+Repository Structure  
+Installation    
 Usage
 Pipeline Details
 Data Exploration and Preprocessing
